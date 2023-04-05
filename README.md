@@ -23,3 +23,5 @@
 - :pray: Хочу найти работу, в которой смогу: развиваться, создавать уникальные IT продукты, зарабатывать деньги и помогать обществу.
 
 - :mailbox: Мои контактные данные: +380 50 275 21 35. Телеграм: https://t.me/antony_work.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antony-Profi)](https://github.com/anuraghazra/github-readme-stats)
