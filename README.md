@@ -14,17 +14,28 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzc4MTdlMjRjYWQwYTJmMDUxZmVhOGQ0NGZhYzc3NWNiNDVlYWQwZCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=antony-profi&label=Profile%20views&color=0e75b6&style=flat" alt="antony-profi" /> </p>
 
-:man_technologist: Про себе : Вітаю 👦, я @antony_work
-- :man_student: Я розробник Python. Спеціалізуюся по Python (Back-End) і мені ще цікава сторона Front-End. Створював досить багато різних додатків: Telegram ботів, обробляв табличні дані за допомогою бібліотеки Pandas, створював діаграми та графіки, так само Штучний інтелект та інтегрував його в Telegram ботів, створював сайти на Django та Flask, реалізовував додатки на Tkinter. Створюю програми, використовую шаблони проектування, пишу код на базі PEP-8, використовую у своїй роботі: ООП, багатопоточність, асинхронність, багатопроцесорність, контекстні менеджери та інші можливості в Python. 
+<h1 align="center">Greetings, everyone, I`m <a href="https://www.facebook.com/profile.php?id=100027781775657" target="_blank">Anton</a>
+<br>
+<br>
+ 
+# About Me:
+I am a programmer and team organizer working on commercial projects in machine learning, deep learning, computer vision, and artificial intelligence. These technologies are the future, and I invite you to become a part of this future with me.<br><br>I am building a strong team of developers who are not just task executors but professionals eager to grow, gain practical experience in cutting-edge projects, and earn money. In my team, you won’t just be an employee—you’ll be part of large-scale solutions with real opportunities for growth.<br><br>It’s important to understand: I am not hiring employees—I am inviting partners for growth. There are no limits here, only opportunities. Working with me is a chance to immerse yourself in serious commercial projects, gain experience, and reach new heights—while earning well.<br><br>I personally decide who joins the team, but for those I choose, I guarantee great prospects, exciting projects, good earnings, and the chance to be part of something truly significant.<br><br>If you are ready for challenges, eager to grow, and determined to move forward, then join us. We are creating technologies that shape the future.
 
-- :writing_hand: В даний час навчаюсь в Академії ШАГ, також займаюся з наставником з програмування Python. Рівень: junior.
+<br>
+P.S
+<p>
+  <i>
+    True success begins with that first step – and it's the boldest and most determined who take it. I will help you take that step if you have a genuine desire to realize your potential. Practical experience is gained through active involvement and project execution.
+  </i>
+</p>
 
-- :pray: Хочу знайти роботу, в якій зможу: розвиватись, створювати унікальні IT продукти, заробляти гроші та допомагати суспільству.
 
-- :mailbox: Мої контактні дані: +380 50 275 21 35. Телеграм: https://t.me/antony_work.
 
-:hammer_and_wrench: Мови та інструменти:
+
+# Tech Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -38,10 +49,17 @@
 </div>
 
 
-:fire: Моя статистика: 
+# My Stats:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antony-Profi&show_icons=true&theme=tokyonight)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Profi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+# Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Antony-Profi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Antony-Profi&icon=0&color=0)](https://visitcount.itsvg.in)
+
