@@ -4,10 +4,13 @@
 
 <div id="badges" align="center">
   <a href="https://t.me/antony_work">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
+  </a>
+  <a href="https://github.com/Antony-Profi?tab=followers">
+    <img src="https://img.shields.io/github/followers/Antony-Profi?style=social" alt="GitHub followers" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100027781775657">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
   </a>
 </div>
   
@@ -50,12 +53,21 @@ P.S
 
 
 # My Stats:
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antony-Profi&show_icons=true&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Profi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/Antony-Profi">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Antony-Profi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      alt="Antony-Profi GitHub stats"
+    />
+  </a>
+  <br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Profi&layout=compact&theme=vision-friendly-dark"
+      alt="Top languages"
+    />
+  </a>
+</div>
 
 # Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Antony-Profi&limit=5&theme=dark&combine_all_yearly_contributions=true)
