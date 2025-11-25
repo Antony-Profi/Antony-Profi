@@ -32,6 +32,7 @@ P.S
   </i>
 </p>
 
+<br>
 <a href="https://github.com/Antony-Profi?tab=followers">
     <img src="https://img.shields.io/github/followers/Antony-Profi?label=Followers&logo=github&style=for-the-badge&labelColor=0b0b0b&color=0099b5&logoColor=white" alt="Follow me on GitHub" />
 </a>
@@ -55,14 +56,14 @@ P.S
 <div align="center">
   <a href="https://github.com/Antony-Profi">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Antony-Profi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=Antony-Profi&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true&include_all_commits=true&count_private=true"
       alt="Antony-Profi GitHub stats"
     />
   </a>
   <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Profi&layout=compact&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Profi&layout=compact&theme=tokyonight&card_width=420&hide_border=true"
       alt="Top languages"
     />
   </a>
