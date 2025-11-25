@@ -53,7 +53,6 @@ P.S
 
 
 # My Stats:
-# My Stats:
 <div align="center">
   <a href="https://github.com/Antony-Profi">
     <img
