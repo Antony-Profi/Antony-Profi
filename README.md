@@ -6,9 +6,6 @@
   <a href="https://t.me/antony_work">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
-  <a href="https://github.com/Antony-Profi?tab=followers">
-    <img src="https://img.shields.io/github/followers/Antony-Profi?style=social" alt="GitHub followers" />
-  </a>
   <a href="https://www.facebook.com/profile.php?id=100027781775657">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
   </a>
@@ -35,7 +32,9 @@ P.S
   </i>
 </p>
 
-
+<a href="https://github.com/Antony-Profi?tab=followers">
+    <img src="https://img.shields.io/github/followers/Antony-Profi?label=Followers&logo=github&style=for-the-badge&labelColor=0b0b0b&color=0099b5&logoColor=white" alt="Follow me on GitHub" />
+</a>
 
 
 # Tech Stack:
