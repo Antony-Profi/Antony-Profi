@@ -53,7 +53,7 @@ P.S
 
 
 # My Stats:
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Antony-Profi&theme=tokyonight)](https://git.io/streak-stats)
 
 # Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Antony-Profi&limit=5&theme=dark&combine_all_yearly_contributions=true)
