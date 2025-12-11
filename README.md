@@ -59,7 +59,7 @@ P.S
 
 [![](https://visitcount.itsvg.in/api?id=Antony-Profi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Antony-Profi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antony-Profi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Top Contributed Repo
