@@ -63,4 +63,4 @@ P.S
 
 
 # Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Antony-Profi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Profi&layout=compact&theme=transparent&border_radius=10)
