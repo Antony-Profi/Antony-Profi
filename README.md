@@ -53,13 +53,6 @@ P.S
 
 
 # My Stats:
-![](https://github-readme-stats.vercel.app/api?username=Antony-Profi&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Antony-Profi&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Profi&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=Antony-Profi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antony-Profi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Top Contributed Repo
