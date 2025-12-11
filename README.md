@@ -53,21 +53,6 @@ P.S
 
 
 # My Stats:
-<!-- GitHub Readme Stats -->
-![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antony-Profi&show_icons=true&count_private=false&theme=radical)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Profi&layout=compact&theme=radical)
-
-<!-- Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Antony-Profi&theme=radical)
-
-<!-- Profile Trophies -->
-![Trophies](https://github-profile-trophy.vercel.app/?username=Antony-Profi&theme=radical&margin-w=10)
-
-<!-- WakaTime (optional - replace YOUR_WAKATIME_USERNAME) -->
-<!-- Make sure your WakaTime profile is public to show data. -->
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Antony-Profi&range=last_30_days&layout=compact&theme=radical)
 
 # Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Antony-Profi&limit=5&theme=dark&combine_all_yearly_contributions=true)
