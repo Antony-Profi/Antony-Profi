@@ -53,6 +53,9 @@ P.S
 
 
 # My Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antony-Profi&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-Profi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Antony-Profi&limit=5&theme=dark&combine_all_yearly_contributions=true)
